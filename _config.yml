@@ -1,6 +1,6 @@
-title:               Celeste
+title:               Jacky Hoh
 url:                 https://jackyhohs.github.io
-baseurl:             https://jackyhohs.github.io/
+baseurl:             ""
 
 markdown:            kramdown
 highlighter:         rouge

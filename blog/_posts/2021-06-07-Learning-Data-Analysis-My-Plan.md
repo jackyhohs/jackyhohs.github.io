@@ -25,8 +25,8 @@ And the skills I've found are:
 
 
 With some "nice to haves" being:
-<!--more-->
 - Machine learning
+<!--more-->
     - Orange, Tensorflow, neural networks, deep learning
 - Advanced database management 
     - MongoDB or cloud services (AWS, Google Cloud, Azure)
