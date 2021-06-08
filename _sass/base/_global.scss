@@ -18,9 +18,9 @@ html {
 }
 
 body {
-  color: $body-text-color;
-  background-color: $body-background-color;
-  border-top: $body-top-border-width solid $body-top-border-color;
+  color: white;
+  background-color: rgb(31, 31, 31);
+  border-top: $body-top-border-width solid rgb(16, 105, 238);
 }
 
 a {
@@ -39,7 +39,6 @@ a {
 
 footer {
     text-align: center;
-    text-transform: lowercase;
     margin-bottom: 2rem;
 }
 

@@ -17,8 +17,8 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: $nav-link-underline-color;
-    height: 2px;
+    background: rgb(62, 132, 236);
+    height: 3px;
 
     @include prefix(transform, translateY(4px));
     @include prefix(transition-property, transform);
