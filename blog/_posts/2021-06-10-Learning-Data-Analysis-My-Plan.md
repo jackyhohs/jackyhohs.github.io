@@ -37,6 +37,4 @@ With some "nice to haves" being:
 - Big data
     - Apache Spark & Hadoop
 
-It's quite a list of things to learn and certainly not an exhaustive list of skills that might be useful. My goal is to chip down this list over the course of a month or two, starting with statistics. I've taken several math and econ courses with some touching upon statistics-related topics. However, I've only taken only one dedicated statistics course in university which was an introductory course. From what it seems, statistics is the core of data analysis so I think it's best to start here.
-
-Looking for online courses for statistics, I found a [MITX statistics course](https://www.edx.org/course/fundamentals-of-statistics) as a recommended place to start. It is supposedly a very rigorous course. Hopefully I will be able to learn the material and have the knowledge to apply it. Plus it's also completely free as long as I don't care about receiving an official certificate.
+It's quite a list of things to learn and certainly not an exhaustive list of skills that might be useful. I looked around for a place to start learning and found a [Data Analyst course](https://www.edx.org/professional-certificate/ibm-data-analyst) by IBM. It will introduce various common tools that data analysts use and teach me how to use it. Hopefully it turns out to be a good course. Luckily, it is also completely free as long as I don't want an official certificate.
