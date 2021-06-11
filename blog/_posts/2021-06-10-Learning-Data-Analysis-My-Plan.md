@@ -6,9 +6,9 @@ truncated_preview: true
 excerpt_separator: <!--more-->
 ---
 
-After a long period of job searching for a job without any success and getting burnt out, I decided to focus on picking up some new skills. I looked towards data analysis as some of the skills overlapped with what I had already learned as a student. So I began researching on the essential skills that a data analyst should have. 
+After a long period of job searching for a job without any success and getting burnt out, I decided to focus on picking up some new skills. I looked towards data analysis as some of the skills overlapped with what I had already learned as a student. So I began researching on the essential skills that a data analyst should have. Maybe I won't start off as a data analyst, but it seems a lot of these skills are used in other tech-related roles so the learning will still be useful.
 
-And the skills I've found are:
+The skills I've found in my search are:
 
 - Python/R Programming 
     - Pandas, Matplotlib, NumPy (for Python)
@@ -37,4 +37,5 @@ With some "nice to haves" being:
 - Big data
     - Apache Spark & Hadoop
 
-It's quite a list of things to learn and certainly not an exhaustive list of skills that might be useful. I looked around for a place to start learning and found a [Data Analyst course](https://www.edx.org/professional-certificate/ibm-data-analyst) by IBM. It will introduce various common tools that data analysts use and teach me how to use it. Hopefully it turns out to be a good course. Luckily, it is also completely free as long as I don't want an official certificate.
+It's quite a list of things to learn and certainly not an exhaustive list of skills that might be useful. I looked around for a place to start learning and found a [Data Analyst program](https://www.edx.org/professional-certificate/ibm-data-analyst) by IBM. It will introduce various common tools that data analysts use and teach me how to use them. Hopefully it turns out to be a good course. Luckily, it is also completely free as long as I don't want an official certificate.
+
