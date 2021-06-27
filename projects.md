@@ -8,5 +8,5 @@ title: Projects
 </p>
 
 <p>
-[Dank Hunt](https://github.com/jackyhohs/Dank-Hunt) is a project I worked on for my Python class. It's a simple point and click game based on Duck Hunt, with some modifications.
+<a href="https://github.com/jackyhohs/Dank-Hunt">Dank Hunt</a> is a project I worked on for my Python class. It's a simple point and click game based on Duck Hunt, with some modifications.
 </p>
