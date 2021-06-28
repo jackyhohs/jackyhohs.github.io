@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-  In the future, this page will have some information about me.
+  I'm a graduate from UCLA majoring in mathematics/economics with a specialization in computing. I enjoy being able to apply critical thinking and analytical skills to come up with solutions to a problem. 
 </p>
