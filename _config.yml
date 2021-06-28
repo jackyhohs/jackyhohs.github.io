@@ -21,7 +21,7 @@ sass:
 author:
   name:              Jacky Hoh
   url:               jackyhohs.github.io
-  email:             testemail@gmail.co
+  email:             jacky.hoh2@gmail.com
 
 plugins:
   - jekyll-coffeescript
